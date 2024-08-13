@@ -7,6 +7,7 @@ Primeiro Trabalho Prático de Teoria da Computação: Funções Recursivas Primi
 
    
 //////////////////////////////////////////////////////////////////////////////////////
+
 soma (o valor de x e y deve ser definido de forma aleatória) 
 
 ⁠subtração (o valor de x e y deve ser definido de forma aleatória) 
